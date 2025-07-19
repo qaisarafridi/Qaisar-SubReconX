@@ -4,8 +4,8 @@
 
 Created by: **Qaisar Afridi**  
 Version: **1.0.0**
+<img width="791" height="558" alt="image" src="https://github.com/user-attachments/assets/1d45bddb-61ab-46bf-8eb0-d589769578ab" />
 
----
 
 ## 🔥 Features
 
