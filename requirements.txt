@@ -1,0 +1,7 @@
+## 📦 `requirements.txt`
+requests
+httpx
+mmh3
+pyfiglet
+ipwhois
+colorama
